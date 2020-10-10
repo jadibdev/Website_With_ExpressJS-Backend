@@ -1,1 +1,1 @@
-# ReactNative-Photosharing-App
+# Mobile photosharing application built with React native
